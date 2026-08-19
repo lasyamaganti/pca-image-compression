@@ -1,6 +1,6 @@
 # PCA Image Compression
 
-A MATLAB project exploring **Principal Component Analysis (PCA) and Singular Value Decomposition (SVD)** for image compression and dimensionality reduction using the Extended Yale B face dataset.
+A MATLAB project exploring **Principal Component Analysis (PCA) and Singular Value Decomposition (SVD)** for image compression and dimensionality reduction using the Extended Yale B face dataset which is uploaded as eigenfaces-dataset.zip.
 
 ## How It Works
 
